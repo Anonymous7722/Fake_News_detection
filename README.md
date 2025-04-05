@@ -41,8 +41,7 @@ Add your screenshots here. For example:
 | "Breaking: NASA confirms aliens have landed!" | ❌ Fake |
 | "Government passes new education reform bill" | ✅ Real |
 
-> 📎 _You can upload screenshots in a `/screenshots` folder and reference them like this:_
-> `![Prediction Screenshot](screenshots/prediction.png)`
+> 
 
 ---
 
