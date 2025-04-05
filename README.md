@@ -54,8 +54,8 @@ Follow these simple steps to get your fake news detector up and running! 🚀
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/fake-news-detection.git
-cd fake-news-detection
+https://github.com/Anonymous7722/Fake_News_detection
+cd Fake_News_detection
 pip install scikit-learn
 pip install nltk
 pip install streamlit
