@@ -22,6 +22,7 @@ Welcome to the **Fake News Detection** project! This repository demonstrates how
 - Pandas
 - NumPy
 - NLTK
+- Streamlit
 - Matplotlib / Seaborn (optional for visualization)
 
 ---
