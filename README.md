@@ -28,8 +28,7 @@ Welcome to the **Fake News Detection** project! This repository demonstrates how
 
 ## 📸 Screenshots
 
-Add your screenshots here. For example:
-
+Demo:
 ![image](https://github.com/user-attachments/assets/2abc7d4b-93f2-4cc5-9b2a-af043f705d7f)
 ![image](https://github.com/user-attachments/assets/8a42ccf2-58ca-4572-8696-07a89f175ed8)
 ![image](https://github.com/user-attachments/assets/1c0c0745-f8e1-4939-a6b0-cc538137d236)
@@ -45,8 +44,6 @@ Add your screenshots here. For example:
 
 ---
 
-
----
 
 ## 🧪 How to Run the Project
 
