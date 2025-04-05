@@ -6,7 +6,7 @@ Welcome to the **Fake News Detection** project! This repository demonstrates how
 
 ## 🚀 Features
 
-- 🧹 Text Preprocessing (Stopword removal, Lemmatization, etc.)
+- 🧹 Text Preprocessing (Stopword removal, Stemming, etc.)
 - 🛠️ Feature Extraction using TF-IDF
 - 📊 Model Training using Logistic Regression
 - ✅ Accuracy & Evaluation Metrics
@@ -57,5 +57,16 @@ Follow these simple steps to get your fake news detector up and running! 🚀
 ```bash
 git clone https://github.com/your-username/fake-news-detection.git
 cd fake-news-detection
+pip install scikit-learn
+pip install nltk
+pip install streamlit
+python3 -m streamlit run app.py
+```
+## 📈 Model Performance
+
+- Accuracy: ~94%
 
 
+---
+
+Let me know if you want me to auto-generate a `requirements.txt` for this project too.
